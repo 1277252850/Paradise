@@ -1,1 +1,1 @@
-{"version": "1.1", "url": "test url"}
+{"version": "1.1", "url": "https://raw.githubusercontent.com/1277252850/Paradise/master/app-release.apk"}
