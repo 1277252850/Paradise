@@ -1,1 +1,1 @@
-{"aiduo_base_url": "http://www.ad30.xyz/"}
+{"aiduo_base_url": "http://www.ad29.xyz/"}
