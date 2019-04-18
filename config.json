@@ -1,0 +1,17 @@
+{
+  "video": [
+    {
+      "name": "写真",
+      "title": "<a id=.ha.*?title=\"(.*?)\"",
+      "pre_img": "",
+      "img": "<img id=\"ka\".*?name=\"(.*?)\"",
+      "post_img": ".jpg",
+      "pre_href": "http://m.22k.im",
+      "href": "<a id=.ha.*?href=\"(.*?)\"",
+      "post_href": "",
+      "pre_page": "",
+      "post_page": "",
+      "type": "cover"
+    }
+  ]
+}
