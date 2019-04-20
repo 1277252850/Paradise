@@ -8,7 +8,7 @@
       "pre_img": "",
       "img": "<a id=.ha.*?<img id=\"ka\".*?name=\"(.*?)\"",
       "post_img": ".jpg",
-      "pre_href": "http://m.22k.im",
+      "pre_href": "http://m.22k.im/",
       "href": "<a id=.ha.*?href=\"(.*?)\"",
       "post_href": "",
       "pre_page": "http://m.22k.im/",
