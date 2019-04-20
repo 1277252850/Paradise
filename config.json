@@ -11,7 +11,7 @@
       "pre_href": "http://m.22k.im",
       "href": "<a id=.ha.*?href=\"(.*?)\"",
       "post_href": "",
-      "pre_page": "",
+      "pre_page": "http://m.22k.im/",
       "post_page": "",
       "type": "cover"
     }
