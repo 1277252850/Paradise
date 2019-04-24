@@ -21,7 +21,9 @@
   ],
   "jav": {
     "url": "https://avmoo.xyz/cn/popular",
-    "base_url": "https://avmoo.xyz/",
+    "base_url": "https://avmoo.xyz/"
+  },
+  "torrent": {
     "bt_url": "http://feikebt.xyz/s/"
   }
 }
