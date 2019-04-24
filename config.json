@@ -14,7 +14,7 @@
       "pre_page": "http://m.22k.im/",
       "post_page": "",
       "pre_play": "",
-      "play": "<div id=\"wr\".*?class=.*?type=\"(.*?)\" href=\"(.*?)\"",
+      "play": "<div id=\"wr\".*?class=.*?type=\"(.*?)\"",
       "post_play": ".mp4",
       "operate": "url_decode"
     }
