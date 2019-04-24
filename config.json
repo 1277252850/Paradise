@@ -16,7 +16,7 @@
       "pre_play": "http://ki.syasn.com/",
       "play": "<div id=\"wr\".*?class=.*?type=\"(.*?)\" href=\"(.*?)\"",
       "post_play": ".mp4",
-      "operate": "url_decode"
+      "operate": ""
     }
   ]
 }
