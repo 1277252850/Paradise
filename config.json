@@ -13,7 +13,10 @@
       "post_href": "",
       "pre_page": "http://m.22k.im/",
       "post_page": "",
-      "type": "cover"
+      "pre_play": "",
+      "play": "<div id=\"nb.*?<embed.*?flashvars=\"f=(.*?)mp4",
+      "post_play": "mp4",
+      "operate": "url_decode"
     }
   ]
 }
