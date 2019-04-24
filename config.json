@@ -13,9 +13,9 @@
       "post_href": "",
       "pre_page": "http://m.22k.im/",
       "post_page": "",
-      "pre_play": "",
+      "pre_play": "http://ki.syasn.com/",
       "play": "<div id=\"wr\".*?class=.*?type=\"(.*?)\" href=\"(.*?)\"",
-      "post_play": "mp4",
+      "post_play": ".mp4",
       "operate": "url_decode"
     }
   ]
