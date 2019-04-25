@@ -33,7 +33,7 @@
       "url": "https://www.92dbt.com/fuliba/mntp/",
       "title": "<article class=\"excerpt.*?<header.*?<a.*?title=\"(.*?)\"",
       "pre_img": "",
-      "img": "<article class=\"excerpt.*?<p.*?<img.*?src=\"(.*?)\"",
+      "img": "<article class=\"excerpt.*?<p.*?<img.*?data-original=\"(.*?)\"",
       "post_img": "",
       "pre_href": "",
       "href": "<article class=\"excerpt.*?<header.*?<a.*?href=\"(.*?)\"",
