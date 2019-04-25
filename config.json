@@ -25,5 +25,25 @@
   },
   "torrent": {
     "bt_url": "http://feikebt.xyz/s/"
-  }
+  },
+  "image": [
+	{
+	  "name": "网红",
+      "index": 0,
+      "url": "https://www.92dbt.com/fuliba/mntp/",
+      "title": "<article class=\"excerpt.*?<header.*?<a.*?title=\"(.*?)\"",
+      "pre_img": "",
+      "img": "<article class=\"excerpt.*?<p.*?<img.*?src=\"(.*?)\"",
+      "post_img": "",
+      "pre_href": "",
+      "href": "<article class=\"excerpt.*?<header.*?<a.*?href=\"(.*?)\"",
+      "post_href": "",
+      "pre_page": "https://www.bh-bj.com/fuliba/mntp/page/",
+      "post_page": "",
+      "pre_play": "http://ki.syasn.com/",
+      "play": "<div id=\"wr\".*?class=.*?type=\"(.*?)\" href=\"(.*?)\"",
+      "post_play": ".mp4",
+      "operate": ""
+	}
+  ]
 }
