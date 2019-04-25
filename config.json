@@ -1,52 +1,48 @@
 {
-  "video": [
-    {
-      "name": "写真",
-      "index": 0,
-      "url": "http://m.22k.im/",
-      "title": "<a id=.ha.*?title=\"(.*?)\"",
-      "pre_img": "",
-      "img": "<a id=.ha.*?<img id=\"ka\".*?name=\"(.*?)\"",
-      "post_img": ".jpg",
-      "pre_href": "http://m.22k.im/",
-      "href": "<a id=.ha.*?href=\"(.*?)\"",
-      "post_href": "",
-      "pre_page": "http://m.22k.im/",
-      "post_page": "",
-      "pre_play": "http://ki.syasn.com/",
-      "play": "<div id=\"wr\".*?class=.*?type=\"(.*?)\" href=\"(.*?)\"",
-      "post_play": ".mp4",
-      "operate": ""
-    }
-  ],
-  "jav": {
-    "url": "https://avmoo.xyz/cn/popular",
-    "base_url": "https://avmoo.xyz/"
-  },
-  "torrent": {
-    "bt_url": "http://feikebt.xyz/s/"
-  },
-  "image": [
-	{
-	  "name": "网红",
-      "index": 0,
-      "url": "https://www.92dbt.com/fuliba/mntp/",
-      "title": "<article class=\"excerpt.*?<header.*?<a.*?title=\"(.*?)\"",
-      "pre_img": "",
-      "img": "<article class=\"excerpt.*?<p.*?<img.*?data-original=\"(.*?)\"",
-      "post_img": "",
-      "pre_href": "",
-      "href": "<article class=\"excerpt.*?<header.*?<a.*?href=\"(.*?)\"",
-      "post_href": "",
-      "pre_page": "https://www.bh-bj.com/fuliba/mntp/page/",
-      "post_page": "",
-      "pre_slice": "",
-      "slice": "<a href=\"(https://www.bh-bj.com/fuliba/mntp/\\d+\.html/{0,1}\\d*)\">",
-      "post_slice": "",
-      "pre_detail": "",
-      "detail": "<article class=\"article-content.*?<img.*?src=\"(.*?)\"",
-      "post_detail": "",
-      "operate": "slices"
-	}
-  ]
+	"video": [{
+		"name": "写真",
+		"index": 0,
+		"url": "http://m.22k.im/",
+		"title": "<a id=.ha.*?title=\"(.*?)\"",
+		"pre_img": "",
+		"img": "<a id=.ha.*?<img id=\"ka\".*?name=\"(.*?)\"",
+		"post_img": ".jpg",
+		"pre_href": "http://m.22k.im/",
+		"href": "<a id=.ha.*?href=\"(.*?)\"",
+		"post_href": "",
+		"pre_page": "http://m.22k.im/",
+		"post_page": "",
+		"pre_play": "http://ki.syasn.com/",
+		"play": "<div id=\"wr\".*?class=.*?type=\"(.*?)\" href=\"(.*?)\"",
+		"post_play": ".mp4",
+		"operate": ""
+	}],
+	"jav": {
+		"url": "https://avmoo.xyz/cn/popular",
+		"base_url": "https://avmoo.xyz/"
+	},
+	"torrent": {
+		"bt_url": "http://feikebt.xyz/s/"
+	},
+	"image": [{
+		"name": "网红",
+		"index": 0,
+		"url": "https://www.92dbt.com/fuliba/mntp/",
+		"title": "<article class=\"excerpt.*?<header.*?<a.*?title=\"(.*?)\"",
+		"pre_img": "",
+		"img": "<article class=\"excerpt.*?<p.*?<img.*?data-original=\"(.*?)\"",
+		"post_img": "",
+		"pre_href": "",
+		"href": "<article class=\"excerpt.*?<header.*?<a.*?href=\"(.*?)\"",
+		"post_href": "",
+		"pre_page": "https://www.bh-bj.com/fuliba/mntp/page/",
+		"post_page": "",
+		"pre_slice": "",
+		"slice": "<a href=\"(https://www.bh-bj.com/fuliba/mntp/\\d+\.html/{0,1}\\d*)\">",
+		"post_slice": "",
+		"pre_detail": "",
+		"detail": "<article class=\"article-content.*?<img.*?src=\"(.*?)\"",
+		"post_detail": "",
+		"operate": "slices"
+	}]
 }
