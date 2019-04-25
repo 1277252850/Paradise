@@ -43,6 +43,9 @@
       "pre_slice": "",
       "slice": "<a href=\"(https://www.bh-bj.com/fuliba/mntp/\\d+\.html/{0,1}\\d*)\">",
       "post_slice": "",
+      "pre_detail": "",
+      "detail": "<article class=\"article-content.*?<img.*?src=\"(.*?)\"",
+      "post_detail": "",
       "operate": "slices"
 	}
   ]
