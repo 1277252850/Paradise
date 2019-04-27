@@ -44,5 +44,17 @@
 		"detail": "<article class=\"article-content.*?<img.*?src=\"(.*?)\"",
 		"post_detail": "",
 		"operate": "slices"
+	}],
+	"novel": [{
+		"name": "校园",
+		"url": "http://www.383072.com/novel/xyss/index.html",
+		"title": "<li.*?<h5.*?<a.*?title=\"(.*?)\"",
+		"pre_href": "http://www.383072.com",
+		"href": "<li.*?<h5.*?<a.*?href=\"(.*?)\"",
+		"post_href": "",
+		"pre_page": "http://www.383072.com/novel/xyss/page_",
+		"post_page": ".html",
+		"content": "<p>.*?</p>",
+		"operate": ""
 	}]
 }
