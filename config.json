@@ -29,10 +29,11 @@
 		"post_href": "",
 		"pre_page": "https://www.692cf.com/shipin/list-%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95-",
 		"post_page": ".html",
-		"pre_play": "",
+		"pre_play": "https://991video.com",
 		"play": "<input.*?data-clipboard-text=\"(.*?\\.mp4)\"",
-		"post_play": "",
-		"operate": ""
+		"post_play": "<input.*?data-clipboard-text=".*/.*/.*/.*/.*/(.*?)\.mp4",
+		"operate": "reg-post-play-addition",
+		"addition": ".m3u8"
 	}],
 	"jav": {
 		"url": "https://avmoo.xyz/cn/popular",
