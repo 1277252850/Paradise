@@ -46,7 +46,7 @@
 		"operate": "slices"
 	}],
 	"novel": [{
-		"name": "校园",
+		"name": "校园师生",
 		"index": 0,
 		"url": "http://www.383072.com/novel/xyss/index.html",
 		"title": "<a.*?title=\"(.*?)\" target.*?>",
@@ -54,6 +54,78 @@
 		"href": "<a.*?href=\"(.*?)\".*?target.*?>",
 		"post_href": "",
 		"pre_page": "http://www.383072.com/novel/xyss/page_",
+		"post_page": ".html",
+		"content": "<p>(.*?)</p>",
+		"operate": ""
+	}, {
+		"name": "凌辱强暴",
+		"index": 1,
+		"url": "http://www.383072.com/novel/lrqb/index.html",
+		"title": "<a.*?title=\"(.*?)\" target.*?>",
+		"pre_href": "http://www.383072.com",
+		"href": "<a.*?href=\"(.*?)\".*?target.*?>",
+		"post_href": "",
+		"pre_page": "http://www.383072.com/novel/lrqb/page_",
+		"post_page": ".html",
+		"content": "<p>(.*?)</p>",
+		"operate": ""
+	}, {
+		"name": "都市激情",
+		"index": 2,
+		"url": "http://www.383072.com/novel/dsjq/index.html",
+		"title": "<a.*?title=\"(.*?)\" target.*?>",
+		"pre_href": "http://www.383072.com",
+		"href": "<a.*?href=\"(.*?)\".*?target.*?>",
+		"post_href": "",
+		"pre_page": "http://www.383072.com/novel/dsjq/page_",
+		"post_page": ".html",
+		"content": "<p>(.*?)</p>",
+		"operate": ""
+	}, {
+		"name": "群P交换",
+		"index": 3,
+		"url": "http://www.383072.com/novel/qjh/index.html",
+		"title": "<a.*?title=\"(.*?)\" target.*?>",
+		"pre_href": "http://www.383072.com",
+		"href": "<a.*?href=\"(.*?)\".*?target.*?>",
+		"post_href": "",
+		"pre_page": "http://www.383072.com/novel/qjh/page_",
+		"post_page": ".html",
+		"content": "<p>(.*?)</p>",
+		"operate": ""
+	}, {
+		"name": "职业制服",
+		"index": 4,
+		"url": "http://www.383072.com/novel/zyzf/index.html",
+		"title": "<a.*?title=\"(.*?)\" target.*?>",
+		"pre_href": "http://www.383072.com",
+		"href": "<a.*?href=\"(.*?)\".*?target.*?>",
+		"post_href": "",
+		"pre_page": "http://www.383072.com/novel/zyzf/page_",
+		"post_page": ".html",
+		"content": "<p>(.*?)</p>",
+		"operate": ""
+	}, {
+		"name": "近亲乱伦",
+		"index": 5,
+		"url": "http://www.383072.com/novel/jqll/index.html",
+		"title": "<a.*?title=\"(.*?)\" target.*?>",
+		"pre_href": "http://www.383072.com",
+		"href": "<a.*?href=\"(.*?)\".*?target.*?>",
+		"post_href": "",
+		"pre_page": "http://www.383072.com/novel/jqll/page_",
+		"post_page": ".html",
+		"content": "<p>(.*?)</p>",
+		"operate": ""
+	}, {
+		"name": "同志小说",
+		"index": 6,
+		"url": "http://www.383072.com/novel/tzxs/index.html",
+		"title": "<a.*?title=\"(.*?)\" target.*?>",
+		"pre_href": "http://www.383072.com",
+		"href": "<a.*?href=\"(.*?)\".*?target.*?>",
+		"post_href": "",
+		"pre_page": "http://www.383072.com/novel/tzxs/page_",
 		"post_page": ".html",
 		"content": "<p>(.*?)</p>",
 		"operate": ""
