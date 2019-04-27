@@ -31,7 +31,7 @@
 		"post_page": ".html",
 		"pre_play": "https://991video.com",
 		"play": "<input.*?data-clipboard-text=\"https://www\\.mmxzxl1\\.com(.*?)\\.mp4",
-		"post_play": "<input.*?data-clipboard-text=\".*/.*/.*/.*/.*/(.*?)\\.mp4",
+		"post_play": "<input.*?data-clipboard-text=\".*/.*/.*/.*/.*(/.*?)\\.mp4",
 		"operate": "reg-post-play-addition",
 		"addition": ".m3u8"
 	}],
