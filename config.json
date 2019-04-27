@@ -54,7 +54,7 @@
 		"post_href": "",
 		"pre_page": "http://www.383072.com/novel/xyss/page_",
 		"post_page": ".html",
-		"content": "<p>.*?</p>",
+		"content": "<p>(.*?)</p>",
 		"operate": ""
 	}]
 }
