@@ -48,9 +48,9 @@
 	"novel": [{
 		"name": "校园",
 		"url": "http://www.383072.com/novel/xyss/index.html",
-		"title": "<li.*?<h5.*?<a.*?title=\"(.*?)\"",
+		"title": "<a.*?title=\"(.*?)\" target.*?>",
 		"pre_href": "http://www.383072.com",
-		"href": "<li.*?<h5.*?<a.*?href=\"(.*?)\"",
+		"href": "<a.*?href=\"(.*?)\".*?target.*?>",
 		"post_href": "",
 		"pre_page": "http://www.383072.com/novel/xyss/page_",
 		"post_page": ".html",
