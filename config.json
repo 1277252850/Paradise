@@ -25,7 +25,7 @@
 		"img": "<img class=\"lazy\" data-original=\"(.*?)\"",
 		"post_img": "",
 		"pre_href": "https://www.692cf.com",
-		"href": "<a href="(/shipin/\\d+\.html)"",
+		"href": "<a href=\"(/shipin/\\d+\.html)\"",
 		"post_href": "",
 		"pre_page": "https://www.692cf.com/shipin/list-中文字幕-",
 		"post_page": ".html",
