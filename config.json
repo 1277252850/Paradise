@@ -16,6 +16,23 @@
 		"play": "<div id=\"wr\".*?class=.*?type=\"(.*?)\" href=\"(.*?)\"",
 		"post_play": ".mp4",
 		"operate": ""
+	}, {
+		"name": "亚洲中文",
+		"index": 1,
+		"url": "https://www.692cf.com/shipin/list-%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95.html",
+		"title": "<h3 title=\"(.*?)\" class=\"text-ellipsis\"",
+		"pre_img": "",
+		"img": "<img class=\"lazy\" data-original=\"(.*?)\"",
+		"post_img": "",
+		"pre_href": "https://www.692cf.com",
+		"href": "<li>.*?<a href=\"(.*?)\"",
+		"post_href": "",
+		"pre_page": "https://www.692cf.com/shipin/list-中文字幕-",
+		"post_page": ".html",
+		"pre_play": "https://991video.com",
+		"play": "<script.*?var video.*?= \'(.*?)\';",
+		"post_play": "",
+		"operate": ""
 	}],
 	"jav": {
 		"url": "https://avmoo.xyz/cn/popular",
