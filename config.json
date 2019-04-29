@@ -108,8 +108,8 @@
     "operate": ""
   }],
   "jav": {
-    "url": "https://avmoo.com/cn/popular",
-    "base_url": "https://avmoo.xyz/"
+    "url": "https://avmoo.com/cn/popular/",
+    "base_url": "https://avmoo.com/cn/"
   },
   "torrent": {
     "bt_url": "http://feikebt.com/s/"
