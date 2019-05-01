@@ -134,6 +134,26 @@
     "detail": "<article class=\"article-content.*?<img.*?src=\"(.*?)\"",
     "post_detail": "",
     "operate": "slices"
+  }, {
+    "name": "自拍偷拍 ",
+    "index": 1,
+    "url": "http://www.859cf.com/tupian/list-%E8%87%AA%E6%8B%8D%E5%81%B7%E6%8B%8D.html",
+    "title": "<h3 title=\"(.*?)\" class=\"text-ellipsis\"",
+    "pre_img": "",
+    "img": "<img class=\"lazy\" data-original=\"(.*?)\"",
+    "post_img": "",
+    "pre_href": "https://www.692cf.com",
+    "href": "<a href=\"(/shipin/\\d+\\.html)\"",
+    "post_href": "",
+    "pre_page": "https://www.859cf.com/shipin/list-%E8%87%AA%E6%8B%8D%E5%81%B7%E6%8B%8D-",
+    "post_page": ".html",
+    "pre_slice": "",
+    "slice": "<img class=\"videopic lazy\".*?data-original=\"(http.*?)\"",
+    "post_slice": "",
+    "pre_detail": "",
+    "detail": "",
+    "post_detail": "",
+    "operate": ""
   }],
   "novel": [{
     "name": "校园师生",
