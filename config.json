@@ -1,7 +1,7 @@
 {
   "video": [{
     "name": "国产精品",
-    "index": 1,
+    "index": 0,
     "url": "https://www.859cf.com/shipin/list-%E5%9B%BD%E4%BA%A7%E7%B2%BE%E5%93%81.html",
     "title": "<h3 title=\"(.*?)\" class=\"text-ellipsis\"",
     "pre_img": "",
@@ -19,7 +19,7 @@
     "addition": ".m3u8"
   }, {
     "name": "亚洲中文",
-    "index": 0,
+    "index": 1,
     "url": "https://www.859cf.com/shipin/list-%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95.html",
     "title": "<h3 title=\"(.*?)\" class=\"text-ellipsis\"",
     "pre_img": "",
